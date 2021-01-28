@@ -9,10 +9,5 @@
 
 # Data
 - Data: Homeshopping Data
-- Period: Jan, 2019 ~ December, 2019
+- Shape: (38,309 * 8)
 - From: NS Homeshopping
-
-# Evaluation
-- Final Score : 
-- Final Rank : 
-- Final Rank Ratio : 
