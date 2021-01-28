@@ -3,8 +3,8 @@
 - Goal:
   - Estimate each amount of revenue by item and time
   - Optimize broadcast time table for maximize revenue
-- Concept: Regression, Optimization
-- From: Big Contest
+- Category: Regression, Optimization
+- Tool Used: python, pandas, sklearn
 - Period: August, 2020 ~ September, 2020
 
 # Data
